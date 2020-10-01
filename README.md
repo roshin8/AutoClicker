@@ -1,4 +1,4 @@
-AutoClicker
+AutoClicker - An amazing bot which saves time
 ===========
 
 AutoClicker is a bot for URL Shortening PTC webstites like *shorte.st*, *linkbucks*, *admy.link*, etc. that automatically skips Ads
