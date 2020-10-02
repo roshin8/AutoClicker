@@ -1,7 +1,7 @@
 AutoClicker
 ===========
 
-AutoClicker is a bot for URL Shortening PTC webstites like *shorte.st*, *linkbucks*, *admy.link*, etc. that automatically skips Ads
+AutoClicker is a bot for URL Shortening PTC websites like *shorte.st*, *linkbucks*, *admy.link*, etc. that automatically skips Ads
 
 Auto clickers can be as simple as a program that simulates mouse clicking. This type of auto-clicker is fairly generic and will often work alongside any other computer program running at the time and acting as though a physical mouse button is pressed.
 
